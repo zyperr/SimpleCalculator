@@ -8,7 +8,8 @@
 
 body {
   background: linear-gradient(120deg, #f2b94a, #f5a943, #f89840, #f98641, #f87444, #f76f48, #f66b4b, #f4664f, #f46e52, #f47656, #f37d5a, #f3845f);
-  height: 100vh;
+  height: 130vh;
+  background-repeat: repeat-y;
 }
 
 .container {
@@ -160,7 +161,7 @@ body {
     align-items: center;
     margin-left: 0;
     position: absolute;
-    bottom: 50px;
+    bottom: -70px;
   }
 }
 
